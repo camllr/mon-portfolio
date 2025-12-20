@@ -18,10 +18,8 @@ Il s’agit de mon tout premier projet avec ces technologies.
 
 ## Accès au portfolio
 
-- Version en ligne : `https://TON-PSEUDO.github.io/mon-portfolio/`  
+- Version en ligne : `https://camllr.github.io/mon-portfolio/`  
 - Code source : ce dépôt GitHub
-
-_Remplace l’URL ci-dessus par l’adresse exacte de ton GitHub Pages._
 
 ## Contenu du portfolio
 
