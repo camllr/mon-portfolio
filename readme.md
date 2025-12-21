@@ -1,7 +1,7 @@
 # Portfolio – Camille Rostan
 
 Ce dépôt contient mon premier portfolio web, réalisé pour présenter mon profil et mes projets dans le cadre de ma recherche d'alternance en développement informatique.
-Il est également possible de retrouver mes 3 anciennes versions de portfolio sur ce github : `https://github.com/camllr/mon-portfolio-evolutions`
+Il est également possible de retrouver mes 3 anciennes versions de portfolio sur ce github : [https://github.com/camllr/mon-portfolio-evolutions](https://github.com/camllr/mon-portfolio-evolutions)
 
 ## Contexte et objectif
 
@@ -19,7 +19,7 @@ Il s’agit de mon tout premier projet avec ces technologies.
 
 ## Accès au portfolio
 
-- Version en ligne : `https://camllr.github.io/mon-portfolio/`
+- Version en ligne : [https://camllr.github.io/mon-portfolio/](https://camllr.github.io/mon-portfolio/)
 - Code source : ce dépôt GitHub
 
 ## Contenu du portfolio
