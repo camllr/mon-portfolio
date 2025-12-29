@@ -386,7 +386,11 @@ footer li {
   position: absolute;
   top: 50%;
   left: 50%;
+  width: 220px;
   height: 80%;
+  max-height: 320px;
+  transform: translate(-50%, -50%) scale(0.8);
+  opacity: 0.25;
   filter: blur(2px);
   background: linear-gradient(145deg, #b3445a, #eb8e90);
   border-radius: 18px;
@@ -412,7 +416,6 @@ footer li {
   transform: translate(-50%, -50%) scale(1);
   opacity: 1;
   filter: blur(0);
-  max-width: 60%;
 }
 
 .card.prev {
@@ -428,11 +431,13 @@ footer li {
   font-size: 0.8rem;
   letter-spacing: 0.15em;
   opacity: 0.8;
+  margin-bottom: 8px;
 }
 
 .card-title {
   font-size: 1.4rem;
   font-weight: 700;
+  margin-bottom: 8px;
 }
 
 .card .card-link {
